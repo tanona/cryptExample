@@ -1,11 +1,13 @@
 package testencrypt;
 
 /** 
- * @Course: SDEV 250 ~ Java Programming I
+ * @Course: SDEV 450 ~ Java Programming III
  * @Author Name: BillTinVT
  * @Assignment Name: testencrypt
  * @Date: Sep 28, 2016
  * @Description: 
+ * 
+ *   
  */
 //Imports
 
