@@ -17,7 +17,7 @@ public static void main(String[] args)
 {
     final String secretKey = "DonaTellaNobody";
      
-    String originalString = "ThisIsMyPassword!";
+    String originalString = "ThisIsCushsPassword!";
     String encryptedString = AES.encrypt(originalString, secretKey) ;
     String decryptedString = AES.decrypt(encryptedString, secretKey) ;
      
